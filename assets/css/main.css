@@ -44,6 +44,11 @@
   --surface-color: #ffffff;
 }
 
+.bg-primary {
+    --bs-bg-opacity: 1;
+    background-color: #8094B7 !important;
+}
+
 .dark-background {
   --background-color: #2c0610;
   --default-color: #ffffff;
