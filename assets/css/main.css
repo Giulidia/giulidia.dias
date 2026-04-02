@@ -1135,7 +1135,7 @@ section,
 
 .contact .php-email-form button[type=submit] {
   color: var(--contrast-color);
-  background: #235BAD;
+  background: var(--accent-color);
   border: 0;
   padding: 10px 30px;
   transition: 0.4s;
