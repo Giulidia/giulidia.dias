@@ -116,7 +116,7 @@ h6 {
 
 .php-email-form .loading {
   display: none;
-  background: var(--surface-color);
+  background: #235BAD;
   text-align: center;
   padding: 15px;
   margin-bottom: 24px;
@@ -1097,7 +1097,7 @@ section,
 }
 
 .contact .php-email-form {
-  background-color: var(--surface-color);
+  background-color: #235BAD;
   height: 100%;
   padding: 30px;
   box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
