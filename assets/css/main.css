@@ -634,7 +634,7 @@ section,
 # About Section
 --------------------------------------------------------------*/
 .about .content h2 {
-  font-weight: 700;
+  font-weight: 600;
   font-size: 24px;
 }
 
@@ -761,7 +761,7 @@ section,
   font-size: 16px;
   padding: 5px 15px;
   display: inline-block;
-  font-weight: 300;
+  font-weight: 200;
   margin-bottom: 10px;
 }
 
@@ -854,7 +854,7 @@ section,
 .portfolio .portfolio-content .portfolio-info h4 {
   font-size: 14px;
   padding: 5px 10px;
-  font-weight: 400;
+  font-weight: 300;
   color: #ffffff;
   display: inline-block;
   background-color: var(--accent-color);
