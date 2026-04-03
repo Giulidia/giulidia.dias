@@ -89,7 +89,7 @@ h4,
 h5,
 h6 {
   color: var(--heading-color);
-  font-family: var(--heading-font);
+  font-family: "poppins";
 }
 
 /* PHP Email Form Messages
