@@ -681,7 +681,7 @@ section,
   font-size: 48px;
   line-height: 40px;
   display: block;
-  font-weight: 700;
+  font-weight: 500;
   margin-left: 60px;
 }
 
@@ -751,7 +751,7 @@ section,
 .resume .resume-item h4 {
   line-height: 18px;
   font-size: 18px;
-  font-weight: 600;
+  font-weight: 300;
   text-transform: uppercase;
   color: color-mix(in srgb, var(--default-color), transparent 20%);
   margin-bottom: 10px;
@@ -761,7 +761,7 @@ section,
   font-size: 16px;
   padding: 5px 15px;
   display: inline-block;
-  font-weight: 600;
+  font-weight: 300;
   margin-bottom: 10px;
 }
 
